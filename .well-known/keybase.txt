@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/denyago
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://denyago.name
+  * I am denyago (https://keybase.io/denyago) on keybase.
+  * I have a public key ASDrHrr-bFg2WJ1LNrm03-kI8elqlm4AFtxfcMD427HR9Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e4c471540026a6ccb6e4158e439dbaf026133e5665af779c65e3f01a07c84afa0a",
+      "host": "keybase.io",
+      "kid": "0120eb1ebafe6c5836589d4b36b9b4dfe908f1e96a966e0016dc5f70c0f8dbb1d1f40a",
+      "uid": "da5f9558f657a81947b782c943266f19",
+      "username": "denyago"
+    },
+    "merkle_root": {
+      "ctime": 1679934021,
+      "hash": "bbfe256e7a7c98e5f1f674acfc9fcfe231b80e3ff642d2d597be5542c1143e435f2cb2cd85d442eb93fe5955bbcd47bf997389fb2dc20223175ed14bc3df6938",
+      "hash_meta": "1a9c683d865aaf417027988fc083e1f8f1c88c7becbc81ca0efdcd30483280ce",
+      "seqno": 24255156
+    },
+    "service": {
+      "entropy": "od7Jsk6226K24haaM0mWdiKH",
+      "hostname": "denyago.name",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1679934079,
+  "expire_in": 504576000,
+  "prev": "e8f0be43272b34f839d58eb6d72c6a0251b67d8d2bb376552d331734066c35d7",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6x66/mxYNlidSza5tN/pCPHpapZuABbcX3DA+Nux0fQKp3BheWxvYWTESpcCHcQg6PC+QycrNPg51Y621yxqAlG2fY0rs3ZVLTMXNAZsNdfEIBJK9r863AgFOv7KUnfa8VWqhHNWDdHrbGnBsCA/2eJ3AgHCo3NpZ8RAeGVWMNSOWNgbVmKD0Mg3+3AJnRlUhZovZiLwfjAkOJsSjv93zf+P+sKkOR0VolpVNMhAqaF8h+Z56K+NxRdPCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEMawM44T4p11J56piBHCpkmEWnG0TIORHLz6yuw5NROo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/denyago
+
+==================================================================
