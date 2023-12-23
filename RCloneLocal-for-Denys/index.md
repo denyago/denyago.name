@@ -14,5 +14,5 @@ I don't gather any private data.
 
 ## Terms of Service
 
-There are no promises of anything from me or https://rclone.org/.
-I'm not responsible for [RClone app]https://rclone.org/).
+There are no promises of anything from me.
+I'm not responsible for [RClone app](https://rclone.org/).
